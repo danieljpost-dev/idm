@@ -13,7 +13,12 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-Duis consectetur tristique felis vel finibus. Duis nec velit aliquam, egestas neque et, hendrerit dolor. Mauris eleifend nibh in risus aliquet tempus. Cras tincidunt rhoncus tortor, non malesuada risus ornare eu. Nunc libero velit, faucibus vitae malesuada vel, tincidunt vel libero. Maecenas venenatis ullamcorper mauris ac mattis. Ut mauris nisi, laoreet in sapien at, elementum volutpat nunc.
+{% highlight javascript %}
+let foo = document.getElementById("foo");
+{% endhighlight %}
+
+
+Duis consectetur tristique felis vel finibus. Duis nec velit aliquam, egestas neque et, hendrerit dolor. Mauris _eleifend nibh in risus_ aliquet tempus. Cras tincidunt rhoncus tortor, non malesuada risus ornare eu. Nunc libero velit, faucibus vitae malesuada vel, tincidunt vel libero. Maecenas venenatis ullamcorper mauris ac mattis. Ut mauris nisi, laoreet in sapien at, elementum volutpat nunc.
 
 Nulla in odio et mauris suscipit imperdiet. Proin maximus nunc gravida mi ornare rutrum quis ac tortor. Ut feugiat pretium lorem ut mollis. Phasellus consectetur eros sit amet tortor dictum, vel euismod nunc luctus. Ut ac convallis sem, et euismod nisl. Proin sed tellus quis lorem fermentum convallis ac sit amet metus. Pellentesque ac ornare nunc, sit amet dictum eros. Nullam congue ullamcorper justo, non convallis ipsum sagittis non. Ut ut malesuada neque, eu auctor justo. Donec gravida condimentum nunc sit amet suscipit. Morbi neque quam, ornare porta risus nec, cursus mattis neque. Nam quis nisl sollicitudin, lacinia lectus vel, mattis felis. Pellentesque porta quam vitae cursus egestas. Aenean justo mi, vulputate ornare porta in, sollicitudin vel tortor. Phasellus eu dapibus libero, eget vehicula nulla.
 
