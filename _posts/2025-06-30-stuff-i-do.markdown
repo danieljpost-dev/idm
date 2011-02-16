@@ -2,7 +2,7 @@
 layout: post
 title:  "Stuff I do"
 date:   2025-06-30 14:33:13 -0500
-categories: jekyll update
+categories: jekyll update status
 ---
 
 {% highlight ruby %}
