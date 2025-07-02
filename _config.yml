@@ -26,7 +26,7 @@ github_username:  danieljpost-pro
 # Build settings
 markdown: kramdown
 theme: minima
-remote_theme: brolun/jekyll-theme-monty
+# remote_theme: brolun/jekyll-theme-monty
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
