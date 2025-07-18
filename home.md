@@ -1,3 +1,8 @@
+---
+layout: page
+title: Integria Digital Marketing
+permalink: /home/
+---
 Section 1: Hero
 Headline: Leads don’t pay the bills. Closed deals do.
 Subheadline: We help LMS companies build full-funnel marketing systems that turn attention into revenue.

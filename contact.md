@@ -1,5 +1,5 @@
---- 
-TBD
-
-nothing yet lol
---- 
+---
+layout: page
+title: Contact Us
+permalink: /contact/
+---
