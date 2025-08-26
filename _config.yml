@@ -1,48 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# Your Name or Company
+title: Uni Kravitz
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Integria Digital Marketing
-email: contact@integriahq.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Pellentesque porttitor justo nulla, bibendum elementum dolor consequat id.
-  Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  Nunc dignissim elit tellus, ac imperdiet arcu rhoncus non.
-  Curabitur consequat pharetra tempor.
-  Cras bibendum semper laoreet.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://idm.danieljpost.dev" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username:  danieljpost-pro
+# Description of your website. This is used for social sharing.
+description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
 
-# Build settings
+# A brief blurb about yourself
+content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+
+# Add your social links
+social:
+  - platform: github
+    url: https://github.com/brianmaierjr
+  - platform: facebook
+    url: https://facebook.com/brianmaierjr
+  - platform: twitter
+    url: https://twitter.com/brianmaierjr
+  - platform: linkedin
+    url: brianmaierjr
+
+# General settings
+# url: http://brianmaierjr.github.com/uni
+# baseurl: "/uni" 
 markdown: kramdown
-theme: minima
-# remote_theme: brolun/jekyll-theme-monty
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-seo-tag
+sharing_image: share.jpg
+google_analytics: "UA-58263416-1" # google analytics tracking
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#### LAYOUT OPTIONS #####
+
+# Half layout
+half_side: right
+
+# Full layout
+full_text_position: right # left, right or center
